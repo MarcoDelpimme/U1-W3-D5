@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container-tombola {
+  text-align: center;
+  width: 36rem;
+  margin: 0 auto;
+  margin-top: 15rem;
+}
+
+.cella {
+  display: inline-block;
+  border: solid;
+  margin: 5px;
+}
+
+#container-button {
+  text-align: center;
+
+  padding-top: 5rem;
+}
